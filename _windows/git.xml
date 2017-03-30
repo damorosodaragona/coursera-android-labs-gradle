@@ -1,0 +1,6 @@
+<application>
+  <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="C:\Program Files\Android\Android Studio\PortableGit-2.12.0-64-bit\bin\git.exe" />
+    <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
+  </component>
+</application>
