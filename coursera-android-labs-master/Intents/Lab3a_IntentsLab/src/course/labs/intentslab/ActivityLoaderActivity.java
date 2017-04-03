@@ -1,8 +1,10 @@
 package course.labs.intentslab;
 
+import android.annotation.TargetApi;
 import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -61,14 +63,16 @@ public class ActivityLoaderActivity extends Activity {
 	
 	// Start the ExplicitlyLoadedActivity
 	
+	@TargetApi(Build.VERSION_CODES.JELLY_BEAN)
 	private void startExplicitActivation() {
         
 		Log.i(TAG,"Entered startExplicitActivation()");
 		
 		// TODO - Create a new intent to launch the ExplicitlyLoadedActivity class
-		Intent explicitIntent = null;
-		
+		Intent explicitIntent = new Intent (ActivityLoaderActivity.this, ExplicitlyLoadedActivity.class);
+
 		// TODO - Start an Activity using that intent and the request code defined above
+		startActivityForResult(explicitIntent,GET_TEXT_REQUEST_CODE);
 		
         
         
@@ -82,20 +86,25 @@ public class ActivityLoaderActivity extends Activity {
         
 		// TODO - Create a base intent for viewing a URL
 		// (HINT:  second parameter uses Uri.parse())
+
 		
-        Intent baseIntent = null;
+        Intent baseIntent = new Intent(
+        Intent.ACTION_VIEW, Uri.parse("http://www.google.com")
+		);
+
 		
 		// TODO - Create a chooser intent, for choosing which Activity
 		// will carry out the baseIntent
 		// (HINT: Use the Intent class' createChooser() method)
-		Intent chooserIntent = null;
-        
+
+		Intent chooserIntent = Intent.createChooser(baseIntent, CHOOSER_TEXT);
+
         
 		Log.i(TAG,"Chooser Intent Action:" + chooserIntent.getAction());
         
         
 		// TODO - Start the chooser Activity, using the chooser intent
-
+		startActivity(chooserIntent);
         
 	}
     
@@ -107,6 +116,13 @@ public class ActivityLoaderActivity extends Activity {
 		// TODO - Process the result only if this method received both a
 		// RESULT_OK result code and a recognized request code
 		// If so, update the Textview showing the user-entered text.
+		if(requestCode == GET_TEXT_REQUEST_CODE && resultCode == RESULT_OK) {
+			if(data != null) {
+				String text = data.getStringExtra("text");
+				mUserTextView.setText(text);
+			}
+			}
+
 
 	
     
