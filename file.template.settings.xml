@@ -1,0 +1,10 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <includes_templates>
+      <template name="C File Header.h" reformat="true" live-template-enabled="true" enabled="true" />
+    </includes_templates>
+    <j2ee_templates>
+      <template name="layoutResourceFile.xml" reformat="true" live-template-enabled="true" enabled="true" />
+    </j2ee_templates>
+  </component>
+</application>
