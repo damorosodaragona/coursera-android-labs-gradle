@@ -1,0 +1,7 @@
+#Fri Apr 07 01:30:11 CEST 2017
+base.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_MyBrowser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_44c4397f6045ca53f8e930585004695e22a1fcbd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_MyBrowser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dcd3cbc7c9e42c0e05e611c5acb19955643558b8\\classes.dex
+base.1=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_MyBrowser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_dcd3cbc7c9e42c0e05e611c5acb19955643558b8
+file.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_MyBrowser\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_44c4397f6045ca53f8e930585004695e22a1fcbd\\classes.dex

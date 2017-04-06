@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Apr 07 01:44:18 CEST 2017
+2.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+5.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=DEX
+4.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+count=7
+0.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_
+4.set=JAVA_RESOURCE
+6.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_two.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_one.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\com\\robotium\\solo\\RobotiumWeb.js
+0.set=ANDROID_RESOURCE

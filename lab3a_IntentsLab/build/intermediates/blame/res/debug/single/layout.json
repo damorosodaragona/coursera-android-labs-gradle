@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\build\\intermediates\\res\\merged\\debug\\layout\\explicitly_loaded_activity.xml",
+        "source": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\src\\main\\res\\layout\\explicitly_loaded_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\build\\intermediates\\res\\merged\\debug\\layout\\activity_loader_activity.xml",
+        "source": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\src\\main\\res\\layout\\activity_loader_activity.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Apr 07 01:15:57 CEST 2017
+base.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_DangerousApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9dc690b352c75e7d75724f7253a46af36b5fdc75
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_DangerousApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e450a901330955a6db863c27cab32901d3b97486\\classes.dex
+base.1=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_DangerousApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e450a901330955a6db863c27cab32901d3b97486
+file.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_DangerousApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9dc690b352c75e7d75724f7253a46af36b5fdc75\\classes.dex

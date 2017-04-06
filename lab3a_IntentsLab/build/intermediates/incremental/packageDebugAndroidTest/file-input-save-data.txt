@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Fri Apr 07 01:31:48 CEST 2017
+1.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\build\\intermediates\\res\\resources-debug-androidTest.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+0.file=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\build\\intermediates\\res\\resources-debug-androidTest.ap_
+0.base=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3a_IntentsLab\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main
+0.set=DEX
+count=2
