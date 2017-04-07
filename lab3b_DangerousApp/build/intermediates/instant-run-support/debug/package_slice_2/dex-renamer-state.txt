@@ -1,0 +1,4 @@
+#Fri Apr 07 01:15:57 CEST 2017
+base.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_DangerousApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_DangerousApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

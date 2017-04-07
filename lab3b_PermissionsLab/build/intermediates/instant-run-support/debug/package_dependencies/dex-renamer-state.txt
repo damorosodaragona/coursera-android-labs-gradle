@@ -1,0 +1,10 @@
+#Fri Apr 07 01:03:31 CEST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_PermissionsLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\robotium-core-1.8.0-beta-2_5c4e8e86097ac9a38e5051ad1bdda63c162d751a
+base.1=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_PermissionsLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\robotium-solo-5.6.3_141ec0e37e814e9bf3369f01946cec73dc62a02e
+base.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_PermissionsLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_8166d889baa6d913b2a82ad1ee823561ce3b7b33
+file.2=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_PermissionsLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\robotium-core-1.8.0-beta-2_5c4e8e86097ac9a38e5051ad1bdda63c162d751a\\classes.dex
+file.1=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_PermissionsLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\robotium-solo-5.6.3_141ec0e37e814e9bf3369f01946cec73dc62a02e\\classes.dex
+file.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3b_PermissionsLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\android-support-v4_8166d889baa6d913b2a82ad1ee823561ce3b7b33\\classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3c_FragmentsLab\\build\\intermediates\\res\\merged\\debug\\raw\\taylorswift.txt",
+        "source": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3c_FragmentsLab\\src\\main\\res\\raw\\taylorswift.txt"
+    },
+    {
+        "merged": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3c_FragmentsLab\\build\\intermediates\\res\\merged\\debug\\raw\\ladygaga.txt",
+        "source": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3c_FragmentsLab\\src\\main\\res\\raw\\ladygaga.txt"
+    },
+    {
+        "merged": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3c_FragmentsLab\\build\\intermediates\\res\\merged\\debug\\raw\\rebeccablack.txt",
+        "source": "C:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab3c_FragmentsLab\\src\\main\\res\\raw\\rebeccablack.txt"
+    }
+]

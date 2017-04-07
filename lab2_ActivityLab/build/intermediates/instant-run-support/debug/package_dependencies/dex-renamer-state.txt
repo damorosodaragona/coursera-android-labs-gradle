@@ -1,0 +1,4 @@
+#Fri Apr 07 01:43:52 CEST 2017
+base.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\robotium-solo-5.6.3_141ec0e37e814e9bf3369f01946cec73dc62a02e
+renamed.0=classes.dex
+file.0=C\:\\Users\\Dario\\AndroidStudioProjects\\coursera-android-labs-gradle\\lab2_ActivityLab\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\robotium-solo-5.6.3_141ec0e37e814e9bf3369f01946cec73dc62a02e\\classes.dex
