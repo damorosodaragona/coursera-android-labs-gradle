@@ -1,6 +1,7 @@
 package course.labs.fragmentslab;
 
 import android.app.Activity;
+import android.app.Fragment;
 import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
@@ -13,6 +14,16 @@ public class MainActivity extends Activity implements
 
 	private FriendsFragment mFriendsFragment;
 	private FeedFragment mFeedFragment;
+	private FragmentManager fragmentManager = getFragmentManager();
+
+	//chiama il metodo doTransaction impelemtato da qualsiasi classe implementi l'interfaccia IdoFragmentsTransaction,
+	//quindi chiamera il metodo doTransaction della classe passata come parametro frgmentFunction.
+	private void doTransaction(Fragment fragment, IdoFragmentsTransaction fragmentFunction, int contaneirViewId){
+
+		FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+		fragmentFunction.doTransaction(contaneirViewId, fragmentTransaction, fragment);
+		fragmentTransaction.commit();
+	}
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -26,15 +37,13 @@ public class MainActivity extends Activity implements
 			
 			mFriendsFragment = new FriendsFragment();
 			//TODO 1 - add the FriendsFragment to the fragment_container
+			/*
 			FragmentManager fragmentManager = getFragmentManager();
 			FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 			fragmentTransaction.add(R.id.fragment_container, mFriendsFragment);
 			fragmentTransaction.commit();
-
-
-			
-			
-			
+			*/
+			doTransaction(mFriendsFragment, new doFragmentTransacrionAdd(), R.id.fragment_container);
 
 		} else {
 
@@ -71,12 +80,10 @@ public class MainActivity extends Activity implements
 		if (!isInTwoPaneMode()) {
 
 			//TODO 2 - replace the fragment_container with the FeedFragment
-			FragmentManager fragmentManager = getFragmentManager();
-			FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
-			fragmentTransaction.replace(R.id.fragment_container, mFeedFragment);
-			fragmentTransaction.commit();
-
-			
+			//chiama la funzione che effettuerà la transazione passandogli il fragment da sostituire,
+			//il container nel quale sostituire il fragment, e un nuovo oggetto doFragmentTransactionReplace il quale
+			//il quale implementa il metodo doTransactio che effettuera il replace,
+			doTransaction(mFeedFragment, new doFragmentTransactionReplace(), R.id.fragment_container);
 
 			// execute transaction now
 			getFragmentManager().executePendingTransactions();
@@ -87,5 +94,7 @@ public class MainActivity extends Activity implements
 		mFeedFragment.updateFeedDisplay(position);
 
 	}
+
+
 
 }
