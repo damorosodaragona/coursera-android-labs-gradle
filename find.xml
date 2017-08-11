@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[Lab4_UILabs] - ...\coursera-android-labs-master\UserInterface\Lab4_UILabs\src\course\labs\todomanager'" />
-    <option name="defaultScopeName" value="Directory '[Lab4_UILabs] - ...\coursera-android-labs-master\UserInterface\Lab4_UILabs\src\course\labs\todomanager'" />
-    <option name="SEARCH_SCOPE" value="Directory '[Lab4_UILabs] - ...\coursera-android-labs-master\UserInterface\Lab4_UILabs\src\course\labs\todomanager'" />
+    <option name="customScope" value="Directory '[Lab4_UILabsTest] - ...\coursera-android-labs-master\UserInterface\Lab4_UILabsTest'" />
+    <option name="defaultScopeName" value="Directory '[Lab4_UILabsTest] - ...\coursera-android-labs-master\UserInterface\Lab4_UILabsTest'" />
+    <option name="SEARCH_SCOPE" value="Directory '[Lab4_UILabsTest] - ...\coursera-android-labs-master\UserInterface\Lab4_UILabsTest'" />
   </component>
 </application>
